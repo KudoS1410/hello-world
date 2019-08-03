@@ -1,0 +1,45 @@
+header{
+	font-size: 50px;
+	
+	background-color: yellow;
+	color: #FF1657;
+	text-align: center;
+	padding: 10px
+	
+}
+nav{
+height: 550px;
+width: 20%;
+background-image: url("a1.jpg");
+	padding: 5px;
+	font-size: 25px;
+	float: left;
+	background-color: red;
+	color: red;
+	text-align: center;
+}
+section{
+	width: 72%;
+	height: 500px;
+	font-size: 60px;
+	padding: 20px;
+	background-color: #FFF;
+	float:right;
+	color: #128;
+	text-align: center;
+}
+footer{
+	font-size: 25px;
+	clear: both;
+	background-image: url("back.jpg");
+	color: #000;
+	text-align: center;
+}
+a{
+	font-size: 35px;
+	color: #817854;
+	background-color: yellow;
+}
+body{
+	background-color: cyan
+}
